@@ -19,12 +19,12 @@ How efficient is the delivery process?
 
 🔑 Key Insights & Takeaways
 
-✅ Revenue & Order Metrics: ₹6.88M total sales, ₹688 avg. order value.
-✅ Top Product Categories: Vegetables, Beverages, and Fruits lead sales.
-✅ Customer Behavior: 18-25 and 51+ age groups are the highest spenders.
-✅ City-Wise Performance: Chennai, Mumbai, and Bangalore see the most orders.
-✅ Delivery Efficiency: Avg. delivery time is 27 minutes – room for optimization.
-✅ High-Value Customers: Identified top spenders for targeted loyalty programs.
+1. Revenue & Order Metrics: ₹6.88M total sales, ₹688 avg. order value.
+2. Top Product Categories: Vegetables, Beverages, and Fruits lead sales.
+3. Customer Behavior: 18-25 and 51+ age groups are the highest spenders.
+4. City-Wise Performance: Chennai, Mumbai, and Bangalore see the most orders.
+5. Delivery Efficiency: Avg. delivery time is 27 minutes – room for optimization.
+6. High-Value Customers: Identified top spenders for targeted loyalty programs.
 
 🛠️ Tech Stack & Tools Used
 
@@ -65,6 +65,6 @@ Interactive Filters: Dynamic insights on payment modes and time-based trends.
 
 🎯 Business Impact & Recommendations
 
-🚀 Optimized Inventory Management – Focus on high-selling product categories.
-🚀 Improved Customer Retention – Develop targeted loyalty programs for high-spending groups.
-🚀 Enhanced Delivery Efficiency – Identify bottlenecks in cities with longer delivery times.
+1. Optimized Inventory Management – Focus on high-selling product categories.
+2. Improved Customer Retention – Develop targeted loyalty programs for high-spending groups.
+3. Enhanced Delivery Efficiency – Identify bottlenecks in cities with longer delivery times.
