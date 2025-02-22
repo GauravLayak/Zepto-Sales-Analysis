@@ -61,6 +61,7 @@ Line Charts: Spending trends by customer age groups.
 
 Interactive Filters: Dynamic insights on payment modes and time-based trends.
 
+![image alt](https://github.com/GauravLayak/Zepto-Sales-Analysis/blob/608b000393b22e4bfe31fec0d397aaeda4672bb9/Dashboard%20Overview.png)
 
 🎯 Business Impact & Recommendations
 
